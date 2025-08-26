@@ -7,3 +7,4 @@ features.add_data('https://www.linkedin.com/in/sayali-more-968a0a33a?utm_source=
 generate_image = features.make_image(fill_color="white",back_color="Blue")
 
 generate_image.save('Sayali_Linkedin_Page.png')
+
